@@ -16,5 +16,8 @@
     "url": "https://github.com/kevinchiuu/iss_spotter/issues"
   },
   "homepage": "https://github.com/kevinchiuu/iss_spotter#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "request-promise-native": "^1.0.9"
+  }
 }
